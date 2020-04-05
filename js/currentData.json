@@ -1,0 +1,14 @@
+{
+    "data": [
+      {
+        "id": "20200401",
+        "createdAt": "2020-04-01T15:58:39.622Z",
+        "infected": 883242,
+        "dead": 44097,
+        "recovered": 184112,
+        "hide": false,
+        "name": "Campania",
+        "sick": 655033
+      }
+    ]
+  }
