@@ -1,5 +1,4 @@
-{
-    "data":[
+var countryList = [
       {
         "latitude": 56.1304,
         "longitude": 106.3468,
@@ -1176,5 +1175,4 @@
         "country": "Serbia",
         "countryCode": "RS"
       }
-    ]
-  }
+    ];
