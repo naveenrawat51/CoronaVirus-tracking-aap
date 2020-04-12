@@ -7,6 +7,8 @@ loader from loader.io
 promises to get the data
 node.js proxy server to get the data or you can use some existing like 'https://cors-anywhere.herokuapp.com/'
 
+Following is the link of working app:
+https://naveenrawat51.github.io/CoronaVirus-tracking-aap/
 
 Please feel free to ask any question you have. 
 
